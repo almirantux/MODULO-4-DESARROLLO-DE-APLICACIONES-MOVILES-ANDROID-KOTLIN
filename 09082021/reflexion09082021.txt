@@ -1,0 +1,4 @@
+
+Reflexión respecto al tema de la sesión:   
+
+Se corrigen errores en el despliegue en el layout
