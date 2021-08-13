@@ -1,5 +1,0 @@
-
-Reflexión respecto al tema de la sesión:   
-
-Se comienza con el diseño de la API, para su uso
-
