@@ -1,0 +1,3 @@
+
+Reflexión respecto al tema de la sesión:   
+continuo avanzando con la API REST con  PHP y Postgresql
