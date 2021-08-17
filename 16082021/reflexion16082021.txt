@@ -1,0 +1,6 @@
+
+Reflexión respecto al tema de la sesión:   
+
+implemento la API REST con  PHP y Postgresql
+para mañana comenzar con las pruebas
+
