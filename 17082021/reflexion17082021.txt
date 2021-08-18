@@ -1,0 +1,6 @@
+
+Reflexión respecto al tema de la sesión:   
+
+se realizaron pruebas de la API
+se corrigen errores
+
