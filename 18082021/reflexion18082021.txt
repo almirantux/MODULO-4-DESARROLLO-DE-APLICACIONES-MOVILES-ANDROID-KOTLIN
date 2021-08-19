@@ -1,0 +1,6 @@
+
+Reflexión respecto al tema de la sesión:   
+
+se comienza a programar en la aplicacion el acceso a la API
+
+
