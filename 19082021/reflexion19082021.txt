@@ -1,0 +1,4 @@
+
+Reflexión respecto al tema de la sesión:   
+
+se avanzo con el codigo de la aplicacion implementando lo necesario para solicitar los datos
