@@ -1,0 +1,4 @@
+
+Reflexión respecto al tema de la sesión:   
+se reorganiza el codigo
+se modifica modelo de desarrollo desde MVP a MVVM
