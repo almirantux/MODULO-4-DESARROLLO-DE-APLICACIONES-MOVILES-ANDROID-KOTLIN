@@ -1,0 +1,4 @@
+
+Reflexión respecto al tema de la sesión:   
+
+continuo con modificación del modelo de desarrollo desde MVP a MVVM
