@@ -1,0 +1,4 @@
+
+Reflexión respecto al tema de la sesión:   
+
+hoy pruebo el acceso a la API, funcionando la comunicacion y desplegandose los datos
