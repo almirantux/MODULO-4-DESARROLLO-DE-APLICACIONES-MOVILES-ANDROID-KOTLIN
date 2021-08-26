@@ -1,0 +1,6 @@
+
+Reflexión respecto al tema de la sesión:  
+
+
+se corrigen errores, se ajustan parametros en las vistas secundarias
+la aplicacion ya funciona , se comenzara a definir parametros para usar room
