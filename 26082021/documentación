@@ -1,0 +1,64 @@
+Lunes 9 de Agosto
+Se corrigen errores en el despliegue en el layout
+
+Martes 10 de Agosto
+Se corrigen para que muestre los listados correctamente
+se actualiza el repositorio
+
+Miercoles 11 de Agosto
+Se comienza con el diseño de la API, para su uso
+
+Jueves 12 de Agosto
+se vio temas de API REST
+
+Viernes 13 de Agosto
+
+continuo avanzando con la API REST con  PHP y Postgresql
+
+Sabado 14 de Agosto
+ 
+comienzoa implementar la API REST con  PHP y Postgresql
+y a programar el como acceder
+
+Lunes 16 de Agosto
+implemento la API REST con  PHP y Postgresql
+para mañana comenzar con las pruebas
+
+Martes 17 de Agosto
+
+se realizaron pruebas de la API
+se corrigen errores
+
+Miercoles 18 de Agosto
+
+se comienza a programar en la aplicacion el acceso a la API
+
+Jueves 19 de Agosto
+
+se avanzo con el codigo de la aplicacion implementando lo necesario para solicitar los datos
+
+Viernes 20 de Agosto
+se reorganiza el codigo
+se modifica modelo de desarrollo desde MVP a MVVM
+
+Sabado 21 de Agosto
+
+continuo con modificación del modelo de desarrollo desde MVP a MVVM
+
+Lunes 23 de Agosto
+
+hoy pruebo el acceso a la API, funcionando la comunicacion y desplegandose los datos
+
+Martes 24 de Agosto
+se corrigen varios errores, se realizan pruebas de la aplicación
+
+Miercoles 25 de Agosto
+se corrigen errores, se ajustan parametros en las vistas secundarias
+la aplicacion ya funciona , se comenzara a definir parametros para usar room
+
+Jueves 26 de Agosto
+se corrigen errores de modelo de datos
+se avanza en uso de Room
+y se comienza con recicleview para ordenar las vistas
+
+

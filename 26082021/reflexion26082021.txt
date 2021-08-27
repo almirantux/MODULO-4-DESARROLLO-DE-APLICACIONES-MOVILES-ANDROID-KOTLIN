@@ -1,0 +1,6 @@
+
+Reflexión respecto al tema de la sesión:  
+
+se corrigen errores de modelo de datos
+se avanza en uso de Room
+y se comienza con recicleview para ordenar las vistas
