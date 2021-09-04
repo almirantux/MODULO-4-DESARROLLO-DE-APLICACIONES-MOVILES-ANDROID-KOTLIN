@@ -1,0 +1,5 @@
+
+Reflexión respecto al tema de la sesión:  
+
+se corrigieron varios errores, y por fin funciona todo 
+quedan varios detalles graficos.
