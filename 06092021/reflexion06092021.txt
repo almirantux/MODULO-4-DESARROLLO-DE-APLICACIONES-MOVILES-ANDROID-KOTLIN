@@ -1,0 +1,4 @@
+
+Reflexión respecto al tema de la sesión:  
+
+Se procede a implementar Crashlytics y realizan pruebas
